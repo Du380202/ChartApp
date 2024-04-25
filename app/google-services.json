@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633960513590",
+    "project_id": "androidchartapp-bb57c",
+    "storage_bucket": "androidchartapp-bb57c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633960513590:android:f0950b66ce09349cb1d897",
+        "android_client_info": {
+          "package_name": "com.example.chartapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpjv1kBXYoXc2ieVWIyhtvlJz2jKsKikw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
